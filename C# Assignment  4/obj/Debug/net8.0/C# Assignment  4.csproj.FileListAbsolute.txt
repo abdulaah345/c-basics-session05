@@ -1,0 +1,14 @@
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\C# Assignment  4.GeneratedMSBuildEditorConfig.editorconfig
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\C# Assignment  4.AssemblyInfoInputs.cache
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\C# Assignment  4.AssemblyInfo.cs
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\C# Assignment  4.csproj.CoreCompileInputs.cache
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\bin\Debug\net8.0\C# Assignment  4.exe
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\bin\Debug\net8.0\C# Assignment  4.deps.json
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\bin\Debug\net8.0\C# Assignment  4.runtimeconfig.json
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\bin\Debug\net8.0\C# Assignment  4.dll
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\bin\Debug\net8.0\C# Assignment  4.pdb
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\C# Assignment  4.dll
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\refint\C# Assignment  4.dll
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\C# Assignment  4.pdb
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\C# Assignment  4.genruntimeconfig.cache
+E:\دروس تانية بكالوريا\C# Assignment  4\C# Assignment  4\obj\Debug\net8.0\ref\C# Assignment  4.dll

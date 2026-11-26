@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u062F\u0631\u0648\u0633 \u062A\u0627\u0646\u064A\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0627\\C# Assignment  4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1DB921-3969-43B2-AFCF-05EFBEDE05CC}|C# Assignment  4\\C# Assignment  4.csproj|e:\\\u062F\u0631\u0648\u0633 \u062A\u0627\u0646\u064A\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0627\\c# assignment  4\\c# assignment  4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1DB921-3969-43B2-AFCF-05EFBEDE05CC}|C# Assignment  4\\C# Assignment  4.csproj|solutionrelative:c# assignment  4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1DB921-3969-43B2-AFCF-05EFBEDE05CC}|C# Assignment  4\\C# Assignment  4.csproj|e:\\\u062F\u0631\u0648\u0633 \u062A\u0627\u0646\u064A\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0627\\c# assignment  4\\c# assignment  4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1DB921-3969-43B2-AFCF-05EFBEDE05CC}|C# Assignment  4\\C# Assignment  4.csproj|solutionrelative:c# assignment  4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\\u062F\u0631\u0648\u0633 \u062A\u0627\u0646\u064A\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0627\\C# Assignment  4\\C# Assignment  4\\Book.cs",
+              "RelativeDocumentMoniker": "C# Assignment  4\\Book.cs",
+              "ToolTip": "E:\\\u062F\u0631\u0648\u0633 \u062A\u0627\u0646\u064A\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0627\\C# Assignment  4\\C# Assignment  4\\Book.cs",
+              "RelativeToolTip": "C# Assignment  4\\Book.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T09:38:19.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u062F\u0631\u0648\u0633 \u062A\u0627\u0646\u064A\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0627\\C# Assignment  4\\C# Assignment  4\\Program.cs",
+              "RelativeDocumentMoniker": "C# Assignment  4\\Program.cs",
+              "ToolTip": "E:\\\u062F\u0631\u0648\u0633 \u062A\u0627\u0646\u064A\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0627\\C# Assignment  4\\C# Assignment  4\\Program.cs",
+              "RelativeToolTip": "C# Assignment  4\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T09:37:00.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
